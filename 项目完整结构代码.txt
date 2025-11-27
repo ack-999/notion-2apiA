@@ -27,7 +27,7 @@
 API_MASTER_KEY=1
 
 # --- 端口配置 ---
-NGINX_PORT=8088
+NGINX_PORT=8080
 
 # --- Notion 凭证 (以下均为必须或强烈建议设置) ---
 
